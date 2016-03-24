@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dddd</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">an apple</string>
+    <string name="text2">Apple</string>
+    <string name="button">PUSH</string>
+    <string name="text3">Apple eaten by android</string>
+
+
+</resources>
